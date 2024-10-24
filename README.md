@@ -3,3 +3,5 @@
  humidity, rainfall, and wind speed, were collected from the Bangladesh Meteorological Department (BMD) during the same date range as the electricity demand data.
  
 Dataset: https://github.com/Nripendrobiswas/Electricity_Demand_Forecasting_dataset/blob/main/Final_Demand_added_data.csv
+
+![Image ALt](https://github.com/Nripendrobiswas/Electricity_Demand_Forecasting_dataset/blob/255d85addb965f563fbe18fb912322754a678030/parameters.png)
